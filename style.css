@@ -2,6 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     margin-top: -20px;
+    font-family: 'Barlow Condensed', sans-serif;
 }
 .header-section{
     background-image: url('images/bannner.jpg');
